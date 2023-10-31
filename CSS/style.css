@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+}
+.container {
+background-color:rgb(238,238,238);
+width: 425,10px;
+height: 60px;
+margin: 0 70px 0;
+padding: 0 40px 0;
+float: none;
+}
+.aliclass {
+    background-color: #7EE5DA;
+    width: 444px;
+    height: 65px;
+    margin: 1.5px;
+    margin-left: 70px;
+    padding-top: 10px;
+    float: left;
+}
+.aclass2 {
+    background-color: #70ccc2;
+    width: 215px;
+    height: 75px;
+    margin: 1.5px 1px 1px 1px;
+    float: left;
+    font-size:smaller;
+}
+.aclass3 {
+    font-size: smaller;
+    background-color: #62B3AA;
+    width: 540.98px;
+    height: 75px;
+    float: left;
+    margin: 1.5px;
+}
+#kendinehas {
+padding-left: 1.5%;
+color: blue;
+} 
+
+#lastid {
+    text-align: center;
+    float: left;
+    margin: 10px 530px;
+}
